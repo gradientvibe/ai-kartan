@@ -7,7 +7,7 @@ name:
   source_type: own_site
   verified_at: 2026-11-13
   verified_by: agent
-  note: "Bolagskvarnen är ett varumärke i Bolagskällan AB. Anmäld av organisationen själv."
+  note: "Bolagskvarnen är ett varumärke i Bolagskällan AB."
 
 legal_name:
   value: Bolagskällan AB
@@ -38,11 +38,11 @@ org_number:
 website: https://bolagskvarnen.se
 
 description:
-  value: Tillhandahåller en MCP-server och ett REST-API med svensk bolagsdata (bolagsprofil, styrelse och firmateckning, historik och bokslut från Bolagsverket och SCB) för AI-agenter och egna system. Öppet att prova med testnyckel och påhittade bolag; riktig data öppnar snart.
+  value: Bygger en MCP-server och ett REST-API för svensk bolagsdata från Bolagsverket och SCB (bolagsprofil, styrelse och firmateckning, historik och bokslut) för AI-agenter och egna system. I dag svarar tjänsten ur en sandlåda med påhittade bolag.
   status: claimed
   source_url: https://bolagskvarnen.se/guider/mcp-server-for-bolagsdata/
   source_type: own_site
-  verified_at: 2026-11-13
+  verified_at: 2026-11-17
   verified_by: agent
 
 offers:
@@ -63,12 +63,12 @@ areas:
 
 kommun:
   value: "0180"
-  status: confirmed
-  source_url: https://ec.europa.eu/taxation_customs/vies/rest-api/ms/SE/vat/559555594601
-  source_type: company_register
-  verified_at: 2026-11-13
+  status: claimed
+  source_url: https://bolagskvarnen.se/om/
+  source_type: own_site
+  verified_at: 2026-11-17
   verified_by: agent
-  note: "Stockholm. Härledd från postorten i den registrerade adressen i momsregistret. Sätet enligt Bolagsverket är inte kontrollerat här; bolagskvarnen.se/om/ anger säte i Stockholm."
+  note: "Stockholm. Sidan anger säte i Stockholm."
 
 active:
   value: true
@@ -90,11 +90,13 @@ evidence:
     kind: repo
     title: "Exempel på GitHub: MCP-konfiguration för Claude Code, Cursor, VS Code och Codex samt anrop mot REST-API:t (MIT)"
     status: claimed
-    verified_at: 2026-11-13
+    verified_at: 2026-11-17
     verified_by: agent
+    note: Kodförrådet ägs av organisationen gradientvibe. Bolagskvarnens MCP-guide (bolagskvarnen.se/guider/mcp-server-for-bolagsdata/ och den engelska versionen) länkar dit som exempelrepo.
 
 links:
   github: https://github.com/gradientvibe/bolagskvarnen-examples
 
+self_submitted: true
 record_created_at: 2026-11-13
-record_updated_at: 2026-11-13
+record_updated_at: 2026-11-17
