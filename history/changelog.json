@@ -1,8 +1,165 @@
 {
-  "generated_at": "2026-11-17T21:59:45Z",
-  "antal": 546,
+  "generated_at": "2026-11-17T22:21:22Z",
+  "antal": 556,
   "senaste_andring": "2026-11-17",
   "rader": [
+    {
+      "datum": "2026-11-17",
+      "commit": "953ce6d9bf",
+      "id": "synclair-vision",
+      "namn": "Synclair Vision",
+      "falt": "evidence",
+      "andring": "ändrad",
+      "gammalt": [
+        "https://www.synclairvision.com/technology?feature=ai-driven-analysis"
+      ],
+      "nytt": [
+        "https://www.synclairvision.com/"
+      ],
+      "status": null,
+      "gammal_status": null,
+      "kalla": null
+    },
+    {
+      "datum": "2026-11-17",
+      "commit": "953ce6d9bf",
+      "id": "synclair-vision",
+      "namn": "Synclair Vision",
+      "falt": "description",
+      "andring": "ändrad",
+      "gammalt": "Utvecklar kamerasystem för drönare där programvara korrigerar vidvinkelbilder och AI analyserar videon i realtid för att upptäcka avvikelser och följa mål.",
+      "nytt": "Utvecklar MOSS, ett kamerasystem för drönare som navigerar utan satellitpositionering. Operatören eller en AI-modell väljer mål, och systemet följer målet och styr drönaren mot det.",
+      "status": "claimed",
+      "gammal_status": "claimed",
+      "kalla": "https://www.synclairvision.com/"
+    },
+    {
+      "datum": "2026-11-17",
+      "commit": "953ce6d9bf",
+      "id": "repli5",
+      "namn": "Repli5",
+      "falt": "evidence",
+      "andring": "ändrad",
+      "gammalt": [
+        "https://www.repli5.com/platform"
+      ],
+      "nytt": [
+        "https://www.repli5.com/"
+      ],
+      "status": null,
+      "gammal_status": null,
+      "kalla": null
+    },
+    {
+      "datum": "2026-11-17",
+      "commit": "953ce6d9bf",
+      "id": "orchestrator-zero",
+      "namn": "Orchestrator Zero",
+      "falt": "coordinates",
+      "andring": "ny uppgift",
+      "gammalt": null,
+      "nytt": {
+        "lat": 59.34561,
+        "lng": 18.05287
+      },
+      "status": "claimed",
+      "kalla": "https://oz0.ai/"
+    },
+    {
+      "datum": "2026-11-17",
+      "commit": "953ce6d9bf",
+      "id": "klang",
+      "namn": "Klang",
+      "falt": "coordinates",
+      "andring": "ny uppgift",
+      "gammalt": null,
+      "nytt": {
+        "lat": 56.04844,
+        "lng": 12.68947
+      },
+      "status": "claimed",
+      "kalla": "https://klang.ai/"
+    },
+    {
+      "datum": "2026-11-17",
+      "commit": "953ce6d9bf",
+      "id": "gimic",
+      "namn": "Gimic",
+      "falt": "evidence",
+      "andring": "ändrad",
+      "gammalt": [
+        "https://www.gimic.se/platform"
+      ],
+      "nytt": [
+        "https://www.gimic.se/case-study/swepart-gimic-ai-kvalitetskontroll",
+        "https://www.gimic.se/service/kvalitetskontroll"
+      ],
+      "status": null,
+      "gammal_status": null,
+      "kalla": null
+    },
+    {
+      "datum": "2026-11-17",
+      "commit": "953ce6d9bf",
+      "id": "gimic",
+      "namn": "Gimic",
+      "falt": "description",
+      "andring": "ändrad",
+      "gammalt": "Utvecklar ett AI-baserat system för automatiserad visuell kvalitetskontroll i industriell produktion, med verktyg för modellträning och uppföljning.",
+      "nytt": "Utvecklar AI-baserade system för automatiserad visuell kvalitetskontroll i industriell produktion. Modellerna tränas på kundens produktionsdata, och resultaten samlas i Gimic Portal.",
+      "status": "claimed",
+      "gammal_status": "claimed",
+      "kalla": "https://www.gimic.se/service/kvalitetskontroll"
+    },
+    {
+      "datum": "2026-11-17",
+      "commit": "953ce6d9bf",
+      "id": "atlas-ai",
+      "namn": "Atlas AI",
+      "falt": "evidence",
+      "andring": "ändrad",
+      "gammalt": [
+        "https://atlasai.se/byggen"
+      ],
+      "nytt": [
+        "https://atlasai.se/kunder"
+      ],
+      "status": null,
+      "gammal_status": null,
+      "kalla": null
+    },
+    {
+      "datum": "2026-11-17",
+      "commit": "953ce6d9bf",
+      "id": "atlas-ai",
+      "namn": "Atlas AI",
+      "falt": "areas",
+      "andring": "ändrad",
+      "gammalt": [
+        "agenter_automation",
+        "fastighet_bygg"
+      ],
+      "nytt": [
+        "fastighet_bygg",
+        "agenter_automation"
+      ],
+      "status": "claimed",
+      "gammal_status": "claimed",
+      "kalla": "https://atlasai.se/"
+    },
+    {
+      "datum": "2026-11-17",
+      "commit": "953ce6d9bf",
+      "id": "atlas-ai",
+      "namn": "Atlas AI",
+      "falt": "description",
+      "andring": "ändrad",
+      "gammalt": "AI-byrå som bygger och driftar skräddarsydda AI-agenter och automationer åt företag, bland annat för offerter, leverantörsfakturor och dokumentsökning samt ritningsjämförelse och bygglovsgranskning.",
+      "nytt": "Utvecklar AI-verktyg åt byggbranschen, till exempel för att granska ritningar mot krav och brandregler, ta fram utkast till markundersökningsrapporter och skriva mötesprotokoll. Bygger också verktyg på beställning.",
+      "status": "claimed",
+      "gammal_status": "claimed",
+      "kalla": "https://atlasai.se/"
+    },
     {
       "datum": "2026-11-17",
       "commit": "b9a118fbf4",
