@@ -1,8 +1,235 @@
 {
-  "generated_at": "2026-11-17T22:21:22Z",
-  "antal": 556,
-  "senaste_andring": "2026-11-17",
+  "generated_at": "2026-11-18T21:52:51Z",
+  "antal": 571,
+  "senaste_andring": "2026-11-18",
   "rader": [
+    {
+      "datum": "2026-11-18",
+      "commit": "0c39e4e4dd",
+      "id": "winniio",
+      "namn": "WINNIIO",
+      "falt": "evidence",
+      "andring": "ändrad",
+      "gammalt": [
+        "https://winniio.io/mcp",
+        "https://winniio.io/work"
+      ],
+      "nytt": [
+        "https://winniio.io/insights/fran-skanning-till-fabriksvy",
+        "https://winniio.io/mcp",
+        "https://winniio.io/work"
+      ],
+      "status": null,
+      "gammal_status": null,
+      "kalla": null
+    },
+    {
+      "datum": "2026-11-18",
+      "commit": "0c39e4e4dd",
+      "id": "winniio",
+      "namn": "WINNIIO",
+      "falt": "description",
+      "andring": "ändrad",
+      "gammalt": "Studio i Göteborg som bygger digitala tvillingar och autonoma AI-agenter för fysiska tillgångar, bland annat AI-baserad värmestyrning på rumsnivå i en skola.",
+      "nytt": "Studio i Göteborg som bygger digitala tvillingar och autonoma AI-agenter för fysiska tillgångar, bland annat AI-baserad värmestyrning på rumsnivå i en skola och en fabrikstvilling byggd ur skanningar.",
+      "status": "claimed",
+      "gammal_status": "claimed",
+      "kalla": "https://winniio.io/work"
+    },
+    {
+      "datum": "2026-11-18",
+      "commit": "0c39e4e4dd",
+      "id": "tjorns-kommun",
+      "namn": "Tjörns kommun",
+      "falt": "evidence",
+      "andring": "ändrad",
+      "gammalt": [
+        "https://www.ai.se/en/news/strong-interest-collaboration-shared-digital-assistant-public-sector",
+        "https://www.tjorn.se/kommun-och-politik/utveckling-och-samverkan/digitalisering/en-gemensam-digital-assistent-for-offentlig-sektor"
+      ],
+      "nytt": [
+        "https://www.ai.se/en/news/strong-interest-collaboration-shared-digital-assistant-public-sector",
+        "https://www.tjorn.se/kommun-och-politik/utveckling-och-samverkan/en-gemensam-digital-assistent-for-offentlig-sektor"
+      ],
+      "status": null,
+      "gammal_status": null,
+      "kalla": null
+    },
+    {
+      "datum": "2026-11-18",
+      "commit": "0c39e4e4dd",
+      "id": "storytel",
+      "namn": "Storytel",
+      "falt": "hela posten",
+      "andring": "tillagd",
+      "gammalt": null,
+      "nytt": null,
+      "status": null,
+      "kalla": "https://www.storytel.com"
+    },
+    {
+      "datum": "2026-11-18",
+      "commit": "0c39e4e4dd",
+      "id": "naiss",
+      "namn": "NAISS – National Academic Infrastructure for Supercomputing in Sweden",
+      "falt": "evidence",
+      "andring": "ändrad",
+      "gammalt": [
+        "https://supr.naiss.se/round/2026small/",
+        "https://user.naiss.se/allocations/",
+        "https://www.naiss.se/resource/alvis/",
+        "https://www.naiss.se/resource/arrhenius/"
+      ],
+      "nytt": [
+        "https://supr.naiss.se/round/2026small/",
+        "https://user.naiss.se/allocations/",
+        "https://www.naiss.se/resource/arrhenius/",
+        "https://www.naiss.se/resources/retired-systems/"
+      ],
+      "status": null,
+      "gammal_status": null,
+      "kalla": null
+    },
+    {
+      "datum": "2026-11-18",
+      "commit": "0c39e4e4dd",
+      "id": "malmo-yrkeshogskola",
+      "namn": "Malmö Yrkeshögskola",
+      "falt": "hela posten",
+      "andring": "tillagd",
+      "gammalt": null,
+      "nytt": null,
+      "status": null,
+      "kalla": "https://my.se"
+    },
+    {
+      "datum": "2026-11-18",
+      "commit": "0c39e4e4dd",
+      "id": "life-atlas",
+      "namn": "LifeAtlas",
+      "falt": "hela posten",
+      "andring": "tillagd",
+      "gammalt": null,
+      "nytt": null,
+      "status": null,
+      "kalla": "https://mylifeatlas.com"
+    },
+    {
+      "datum": "2026-11-18",
+      "commit": "0c39e4e4dd",
+      "id": "ipairu",
+      "namn": "iPairU",
+      "falt": "hela posten",
+      "andring": "tillagd",
+      "gammalt": null,
+      "nytt": null,
+      "status": null,
+      "kalla": "https://ipairu.com"
+    },
+    {
+      "datum": "2026-11-18",
+      "commit": "0c39e4e4dd",
+      "id": "grejda",
+      "namn": "Grejda",
+      "falt": "hela posten",
+      "andring": "tillagd",
+      "gammalt": null,
+      "nytt": null,
+      "status": null,
+      "kalla": "https://grejda.ai"
+    },
+    {
+      "datum": "2026-11-18",
+      "commit": "0c39e4e4dd",
+      "id": "expandtalk",
+      "namn": "ExpandTalk",
+      "falt": "hela posten",
+      "andring": "tillagd",
+      "gammalt": null,
+      "nytt": null,
+      "status": null,
+      "kalla": "https://expandtalk.se"
+    },
+    {
+      "datum": "2026-11-18",
+      "commit": "0c39e4e4dd",
+      "id": "c3se",
+      "namn": "C3SE – Chalmers e-Commons e-infrastrukturgrupp",
+      "falt": "evidence",
+      "andring": "ändrad",
+      "gammalt": [
+        "https://supr.naiss.se/round/2026e-commons/",
+        "https://www.c3se.chalmers.se/",
+        "https://www.c3se.chalmers.se/about/Alvis/",
+        "https://www.c3se.chalmers.se/about/Vera/",
+        "https://www.naiss.se/resource/alvis/"
+      ],
+      "nytt": [
+        "https://supr.naiss.se/round/2026e-commons/",
+        "https://www.c3se.chalmers.se/",
+        "https://www.c3se.chalmers.se/about/Vera/",
+        "https://www.c3se.chalmers.se/supr/available_resources/",
+        "https://www.naiss.se/resources/retired-systems/"
+      ],
+      "status": null,
+      "gammal_status": null,
+      "kalla": null
+    },
+    {
+      "datum": "2026-11-18",
+      "commit": "0c39e4e4dd",
+      "id": "brikka",
+      "namn": "Brikka",
+      "falt": "evidence",
+      "andring": "ändrad",
+      "gammalt": [
+        "https://www.brikka.se/tillampningar",
+        "https://www.brikka.se/tjanster/ai-poc-shop"
+      ],
+      "nytt": [
+        "https://www.brikka.se/tillampningar",
+        "https://www.brikka.se/tillampningar/mail"
+      ],
+      "status": null,
+      "gammal_status": null,
+      "kalla": null
+    },
+    {
+      "datum": "2026-11-18",
+      "commit": "0c39e4e4dd",
+      "id": "altu",
+      "namn": "Altu",
+      "falt": "hela posten",
+      "andring": "tillagd",
+      "gammalt": null,
+      "nytt": null,
+      "status": null,
+      "kalla": "https://www.altu.se"
+    },
+    {
+      "datum": "2026-11-18",
+      "commit": "0c39e4e4dd",
+      "id": "alster",
+      "namn": "Alster",
+      "falt": "hela posten",
+      "andring": "tillagd",
+      "gammalt": null,
+      "nytt": null,
+      "status": null,
+      "kalla": "https://alster.se"
+    },
+    {
+      "datum": "2026-11-18",
+      "commit": "0c39e4e4dd",
+      "id": "alster-ventures",
+      "namn": "Alster Ventures",
+      "falt": "hela posten",
+      "andring": "tillagd",
+      "gammalt": null,
+      "nytt": null,
+      "status": null,
+      "kalla": "https://alster.se/ventures"
+    },
     {
       "datum": "2026-11-17",
       "commit": "953ce6d9bf",
